@@ -1,3 +1,5 @@
+
+require 'pry'
 # Make your shoe class here!
 class Shoe 
   
@@ -44,6 +46,7 @@ class Shoe
   def cobble
     puts "Your shoe is as good as new!"
     # @condition == "new"
+    binding.pry
   end
   
 end
