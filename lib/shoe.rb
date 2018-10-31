@@ -47,5 +47,3 @@ class Shoe
   
 end
 
-shoe = Shoe.new
-shoe.condition
