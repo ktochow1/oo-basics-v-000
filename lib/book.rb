@@ -30,9 +30,9 @@ class Book
   def genre
     @genre
     
-    def turn_page
+  def turn_page
   end
-  end
+
 end
 
 #Book.new("And Then There Were None")
