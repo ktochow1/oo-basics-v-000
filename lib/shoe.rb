@@ -17,7 +17,7 @@ class Shoe
     @color
   end
   
-  def shoe_size(shoe_size)
+  def shoe_size(num)
     @shoe_size = shoe_size
   end
   
