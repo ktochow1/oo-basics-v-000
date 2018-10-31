@@ -51,7 +51,7 @@ class Shoe
   
 end
 
-shoe = Shoe.new
+shoe = Shoe.initialize
 shoe.condition
 
 binding.pry
