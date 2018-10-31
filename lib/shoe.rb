@@ -35,8 +35,6 @@ class Shoe
   
   def condition=(condition)
     @condition = condition
-    if cobble then condition == "new"
-    end
   end
   
   def condition
